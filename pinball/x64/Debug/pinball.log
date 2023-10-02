@@ -1,0 +1,294 @@
+﻿  CollisionDetection.cpp
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\CollisionDetection.cpp(48,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\CollisionDetection.cpp(132,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\CollisionDetection.cpp(133,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Objects.cpp
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\Objects.cpp(11,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\Objects.cpp(11,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\Objects.cpp(12,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\vectors_and_collisions\src\Objects.cpp(12,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Reader.cpp
+  Vec.cpp
+  Ball.cpp
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(23,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(23,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(25,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(52,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(52,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(58,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(58,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(83,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(90,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(90,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(97,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(97,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(164,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(165,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(172,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(173,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(177,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(201,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(218,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(219,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(220,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(221,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  BoxRigid.cpp
+F:\class_s6\project1 - Copy\pinball\BoxRigid.cpp(12,22): warning C4305: '=': truncation from 'double' to 'float'
+F:\class_s6\project1 - Copy\pinball\BoxRigid.cpp(45,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\BoxRigid.cpp(45,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\BoxRigid.cpp(138,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\BoxRigid.cpp(139,87): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  Flipper.cpp
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(31,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(31,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(32,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(32,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(63,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(65,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(66,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(70,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(72,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Flipper.cpp(73,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Plunger.cpp
+  Source.cpp
+F:\class_s6\project1 - Copy\pinball\trials.hpp(13,97): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(13,91): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(14,112): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(14,106): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(15,104): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(15,98): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(23,86): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(23,77): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.h(28,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\class_s6\project1 - Copy\pinball\Source.cpp(150,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(151,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(153,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(153,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(172,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(173,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(174,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(194,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(209,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(209,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(210,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(210,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\Source.cpp(377,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(430,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(430,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(434,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(434,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(438,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(438,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(442,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(442,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\project1 - Copy\pinball\Source.cpp(476,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  trials.cpp
+F:\class_s6\project1 - Copy\pinball\trials.hpp(13,97): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(13,91): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(14,112): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(14,106): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(15,104): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(15,98): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(23,86): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\class_s6\project1 - Copy\pinball\trials.hpp(23,77): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(128): warning C4715: 'Ball::resolve_collision': not all control paths return a value
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(184): warning C4715: 'Ball::resolve_collision_obstacle': not all control paths return a value
+F:\class_s6\project1 - Copy\pinball\Ball.cpp(160): warning C4715: 'Ball::resolve_collision': not all control paths return a value
+sfml-graphics-s-d.lib(BlendMode.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(BlendMode.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Color.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Font.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Glsl.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Glsl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLCheck.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(GLCheck.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLExtensions.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(GLExtensions.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Image.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(ImageLoader.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(ImageLoader.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderStates.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderStates.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTarget.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderWindow.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Shader.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Texture.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(TextureSaver.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(TextureSaver.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Transform.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Transform.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Transformable.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Transformable.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(View.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(View.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Vertex.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Vertex.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Shape.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(CircleShape.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(CircleShape.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RectangleShape.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RectangleShape.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(ConvexShape.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(ConvexShape.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Sprite.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Sprite.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Text.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexArray.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(VertexArray.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexBuffer.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(VertexBuffer.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImpl.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTextureImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTextureImplFBO.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Context.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Context.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Cursor.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Cursor.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlContext.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlResource.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(GlResource.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Joystick.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(JoystickManager.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Keyboard.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Keyboard.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(SensorManager.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(SensorManager.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VideoMode.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(VideoMode.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Window.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowBase.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(CursorImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(CursorImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(InputImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(JoystickImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(SensorImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(SensorImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VideoModeImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(VideoModeImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VulkanImplWin32.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(VulkanImplWin32.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowImplWin32.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WglContext.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Clock.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Clock.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Err.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Err.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Lock.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Lock.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Mutex.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Mutex.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Sleep.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Sleep.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(String.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(String.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocal.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(ThreadLocal.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Time.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Time.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(ClockImpl.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(ClockImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(MutexImpl.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(MutexImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(SleepImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(SleepImpl.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocalImpl.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(ThreadLocalImpl.obj)' or at 'F:\class_s6\project1 - Copy\pinball\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+  pinball.vcxproj -> F:\class_s6\project1 - Copy\pinball\x64\Debug\pinball.exe
