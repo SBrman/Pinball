@@ -2,6 +2,7 @@
 ## vectors_and_collisions contain the vector and collision detection libraries
 ## pinball contains the code for the pinball game and the physics
 
+## Description
 Basic Pinball Dynamics: A ball falling down the screen accelerating under gravity is simulated. The ball has natural bouncing interactions with other objects and the environment as it falls down. Implemention was done by updating velocity at each time step based on the acceleration due to gravity. After that position was updated based on the current position and velocity and the timestep. Balls colliding with other objects were reflected from the surfaces using vector reflection while considering the coefficient of restitution to give the motion a more natural feel.
 
 Multiple Balls Interacting: Multiple balls interacting with each other while falling down and interacting with the environment was implemented. To handle ball-ball collisions first collision detection was done by treating the balls as circles. If the distances between the circles was greater than the sum of the radii then collision did not happen, otherwise a collision was recorded. If a collision was detected then the balls were separated by the overlap to resolve collision and then velocity of the balls were updated. To update the velocity of the balls, the momentum conservation and the coefficient of restitution was considered.
