@@ -2,7 +2,9 @@
 ## vectors_and_collisions contain the vector and collision detection libraries
 ## pinball contains the code for the pinball game and the physics
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/xz8Y2HDfwtQ?si=xuZ2UcLUkWdrPhAl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://youtu.be/xz8Y2HDfwtQ?si=VOQpDTN4ESl2aOm4)
+### Video
+https://youtu.be/xz8Y2HDfwtQ?si=kMJlZsT2l3rX4-JZ
+https://youtu.be/HACWhvSED8E?si=0smM92yNTfkHlnGV
 
 ## Description
 ### Basic Pinball Dynamics: 
